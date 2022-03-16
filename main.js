@@ -58,7 +58,7 @@ function draw() {
             }
 
         }
-        if(object.length == 0)
+        if(objects.length == 0)
         {
             document.getElementById("number_of_objects").innerHTML = "Baby not Found";
             console.log("play");
